@@ -1,0 +1,49 @@
+/* font link */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+/* common style */
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+header{
+    background: ;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+/* banner-part */
+
+.container{
+    width: 1160px;
+    margin: 0 auto;
+}
+
+.copa-america{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.fly-man{
+    width: 556px;
+    height: 438px;
+    
+}
+.heading{
+    width: 485px;
+    
+    
+}
+.heading h1{
+    font-size: 64px;
+    font-weight: bold;
+    color: red;
+}
+.button1{
+    padding: 10px 24px;
+    background:linear-gradient(to right,orange,red) ;
+    text-decoration: none;
+    color: white;
+}
