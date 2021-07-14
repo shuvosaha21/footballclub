@@ -18,6 +18,7 @@ img{
 .container{
     width: 1160px;
     margin: 0 auto;
+    background-color: #2D25A0;
 }
 
 .copa-america{
@@ -39,11 +40,11 @@ img{
 .heading h1{
     font-size: 64px;
     font-weight: bold;
-    color: red;
+    color:#ffff;
 }
 .button1{
     padding: 10px 24px;
-    background:linear-gradient(to right,orange,red) ;
+    background:#E02C6D;
     text-decoration: none;
     color: white;
 }
